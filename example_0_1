@@ -1,0 +1,6 @@
+main() {  // démontre le commencement de la fonction dart.
+ var largeur = 20; // définie que la variable nommé largeur est égale à 20
+ var hauteur = 5 * 9.3;  // définie que la variable nommé hauteur est égale à la multiplication de 5 et 9.3
+ var r = largeur * hauteur;  // définie la variable r comme égale à la multiplication de la largeur et la hauteur
+ print(r);  // indique d'imprimer la résultante de la variable r
+} // mets fin au commande
